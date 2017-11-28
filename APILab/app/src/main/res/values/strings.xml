@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">API Lab</string>
+    <string name="intro">Enter the city to search for</string>
+    <string name="hint">City</string>
+    <string name="search_label">Search</string>
+    <string name="placeholder">---</string>
+</resources>
